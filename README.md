@@ -1,6 +1,6 @@
 <h1>Web Scraping for US 2023 Revenue Growth: Unveiling the Top Companies 🚀</h1>
 
-Just embarked on a fascinating journey into the digital realm to extract valuable insights on the revenue growth of the largest companies in the United States for the year 2023. Leveraging the power of Python with BeautifulSoup, Requests, and Pandas, I dove into the vast ocean of data available on Wikipedia.
+Leveraging the power of Python with BeautifulSoup, Requests, and Pandas, we can extract valuable insights on the revenue growth of the largest companies in the United States for the year 2023 from the vast ocean of data available on Wikipedia.
 
 🧐 **Challenges Faced:**
 
